@@ -2,16 +2,18 @@
 layout: default
 ---
 
-<img src="assets/images/banner.jpg" width="100%" style="display: block; margin: 0 auto;">
+<p align="center">
+  <strong><a href="/">Home</a> | <a href="/plot-tours/">Plot Tours</a></strong>
+</p>
 
-<div style="text-align: center; margin: 40px 0;">
+<p align="center">
+  <img src="assets/images/banner.jpg" width="100%" alt="Yes Chef Banner">
+</p>
 
 # Welcome home... 🏠✨
 ## What Our Yes Chef Members Love Most 🧑‍🍳
 
 Our community is built around fun, teamwork, and good vibes — and here’s what everyone’s enjoying the most:
-
-<div style="text-align: left; display: inline-block; max-width: 600px; margin: 20px auto;">
 
 * **Ranching & Farming** 🌱: Chill vibes, steady progress, and helping each other grow — literally!
 * **Cooking Parties** 🥘: From massive cook-ups to themed events, nothing beats coming together and creating magic in the kitchen!
@@ -19,14 +21,15 @@ Our community is built around fun, teamwork, and good vibes — and here’s wha
 * **Dailies Together** ✅: Knocking out dailies is quicker (and way more fun) when you’ve got friends by your side.
 * **Bug Catching (Bugging)** 🦋: Relaxing, rewarding, and surprisingly competitive — bug runs are always a hit!
 
-</div>
-
-<br><br>
-
-<img src="assets/images/footer.jpg" width="400px" style="display: block; margin: 0 auto;">
-
-</div>
+<p align="center">
+  <br>
+  <img src="assets/images/footer.jpg" width="400" alt="Yes Chef Logo">
+</p>
 
 <style>
-  .site-footer, .btn, .site-footer-owner, .site-footer-credits { display: none !important; }
+  .site-footer, .btn { display: none !important; }
+  header, .main-content { text-align: center !important; }
+  .main-content ul { display: inline-block; text-align: left; margin-top: 20px; }
+  a { color: #157878; text-decoration: none; }
+  a:hover { text-decoration: underline; }
 </style>
