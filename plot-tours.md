@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Plot Tours
+permalink: /plot-tours/
 ---
 
 <p align="center">
