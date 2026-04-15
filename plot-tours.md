@@ -1,19 +1,16 @@
 ---
-layout: page
+layout: default
 title: Plot Tours
-permalink: /plot-tours/
 ---
 
 # Plot Tours 🎥
-Check out some of our amazing community plots and the adventures we've had!
+Check out our latest community adventures!
 
 ---
 
-### [Video Title Name]
-*Posted on: April 14, 2026*
+### Amazing Forest Plot 🌲
+*A quick tour of the new community layout.*
 
-[Insert your short blurb here. For example: "We visited this amazing forest-themed ranch today! The layout was incredible."]
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YOUR_VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID_HERE" frameborder="0" allowfullscreen></iframe>
 
 ---
